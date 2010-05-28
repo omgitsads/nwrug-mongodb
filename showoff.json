@@ -1,0 +1,11 @@
+[
+  {"section":"overview"},
+  {"section":"getting_started"},
+  {"section":"dynamic_queries"},
+  {"section":"indexes"},
+  {"section":"in_place_updates"},
+  {"section":"map_reduce"},
+  {"section":"query_profiling"},
+  {"section":"binary_data_storage"},
+  {"section":"sharding"}
+]
