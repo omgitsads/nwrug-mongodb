@@ -22,5 +22,5 @@
 
 !SLIDE center
 
-# Who Uses MongoDB? ##
+# Who Uses MongoDB? #
 ![Who Uses MongoDB](companies.png)
