@@ -6,5 +6,6 @@
   {"section":"in_place_updates"},
   {"section":"indexes"},
   {"section":"aggregation"},
-  {"section":"query_profiling"}
+  {"section":"query_profiling"},
+  {"section":"resources"}
 ]

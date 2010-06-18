@@ -19,11 +19,21 @@
 
 !SLIDE smbullets
 
-# Terminology
+# Terminology #
 
 * Database == Database
 * Collection == Table
 * Document == Row
+
+!SLIDE smbullets
+
+# Document Storage #
+
+## BSON ##
+
+* Binary Serialization of JSON-like Documents
+* Fast to Encode, Decode and Traverse
+* Extra Data Types
 
 !SLIDE
 
